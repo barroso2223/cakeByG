@@ -22,6 +22,7 @@ body {
     line-height: 1.6;
     background: var(--clrMain900);
     color: var(--clrMain100);
+    overflow: hidden;
 }
 
 body,
