@@ -22,7 +22,6 @@ body {
     line-height: 1.6;
     background: var(--clrMain900);
     color: var(--clrMain100);
-    overflow: hidden;
 }
 
 body,
@@ -59,11 +58,6 @@ p {
 
 .textContainer {
     max-width: 500px;
-    place-content: center;
-    place-items: center;
-    justify-content: center;
-    align-content: center;
-    align-items: center;
 
 }
 
@@ -76,6 +70,7 @@ p {
     min-height: 100dvh;
     max-width: 100dvw;
     padding-top: 5rem;
+    overflow: hidden;
 }
 /* 
 @media screen and (max-screen: 500px) {
