@@ -70,7 +70,7 @@ p {
 #gallery {
     min-height: 100dvh;
     max-width: 100dvw;
-    padding-top: 5rem;
+    padding-top: 3rem;
     overflow: hidden;
 }
 
@@ -180,7 +180,7 @@ nav {
         margin-bottom: 4rem
         gap: .5rem;
         background: linear-gradient(to left, 
-        var(--clrTheme100) 30%, var(--clrTheme900)); 
+            var(--clrTheme100) 30%, var(--clrTheme900)); 
         z-index: 111111;
     }
 
@@ -204,7 +204,7 @@ nav {
         max-width: 100dvw;
         min-height: 100dvh;
         justify-content: center;
-        margin: auto;
+        margin: 0 auto;
     }
     
     #home,
@@ -213,7 +213,7 @@ nav {
     #contact {
         min-height: 70dvh;
         max-width: 100dvw;
-        padding-top: 2rem;
+        padding-top: 1rem;
         overflow: hidden;
     }
 }
@@ -387,7 +387,7 @@ nav {
 }
 
 section { 
-    padding: 3rem 1rem; 
+    padding: 1rem 1rem; 
     text-align: center; 
     place-content: center;
     place-items: center;
