@@ -202,19 +202,27 @@ nav {
     .textContainer {
         text-align: center;
         max-width: 100dvw;
-        min-height: 100dvh;
+        min-height: 50dvh;
         justify-content: center;
         margin: 0 auto;
+        font-size: .75rem;
+    }
+
+    .aboutImage {
+        justify-content: center;
+        margin-bottom: 2rem;
+        margin-right: 1rem;
     }
     
     #home,
     #about,
     #gallery,
     #contact {
-        min-height: 70dvh;
+        min-height: 100dvh;
         max-width: 100dvw;
         padding-top: 1rem;
         overflow: hidden;
+        margin: 0 auto;
     }
 }
 
