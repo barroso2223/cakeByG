@@ -489,7 +489,19 @@ video {
     margin-top: 1.5rem;
 }
 
-.wrapper { 
+.wrapperContainer {
+    margin: 0 2rem;
+    overflow: hidden;
+    mask: linear-gradient(
+        to left,
+        rgba(0,0,0,0),
+        rgba(0,0,0,1) 20%,
+        rgba(0,0,0,1) 80%,
+        rgba(0,0,0,0)
+        );
+}
+
+.wrapper {
     margin-top: 1rem;
     width: 90dvw; 
     max-width: 1536px;
@@ -497,6 +509,7 @@ video {
     align-items: center;
     height: 195px;
     padding: 4px 4px;
+    margin: 0 3rem;
     position: relative;
     overflow: hidden;
     margin: 0 auto;
@@ -802,7 +815,7 @@ form {
     border: none;
     border-radius: .5rem;
     overflow: hidden;
-    margin-top: 1rem;
+    margin: 1rem 2rem;
 }
 
 .calendly-inline-widget {
@@ -833,8 +846,12 @@ footer {
     background: linear-gradient(to left, 
     var(--clrTheme100) 30%, var(--clrTheme900));  
     color: white; 
-    padding: 1rem 0; 
+    padding: 1rem 2rem; 
     text-align: center; 
     min-height: 10dvh;
-    font-size: clamp(.5rem, 2vw, .75rem);
 } 
+
+footer p {
+    font-size: clamp(.5rem, 1vw, .75rem);
+
+}
