@@ -780,6 +780,7 @@ video {
 #contact {
     background: linear-gradient(to left, 
     var(--clrTheme100) 30%, var(--clrTheme900)); 
+    padding: 0 2rem;
 }
 
 #contact p, #contact a {
@@ -816,11 +817,17 @@ form {
     border-radius: .5rem;
     overflow: hidden;
     margin: 1rem 2rem;
+    background: var(--clrMain100);
+}
+
+.calendar a {
+    color: var(--clrTheme900);
 }
 
 .calendly-inline-widget {
     width: 100%;
     height: 100%;
+    border-radius: .5rem;
 }
 
 .field input, .field textarea {
