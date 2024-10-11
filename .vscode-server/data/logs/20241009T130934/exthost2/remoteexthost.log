@@ -1,0 +1,12 @@
+2024-10-09 13:09:38.920 [info] Extension host with pid 558 started
+2024-10-09 13:09:38.989 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-10-09 13:09:38.991 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-09 13:09:38.991 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-10-09 13:09:39.565 [info] Lock '/home/dannydevelops82/.vscode-server/data/User/workspaceStorage/f7d09a342325a5820905268bd592107e/vscode.lock': Lock acquired.
+2024-10-09 13:09:39.994 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-10-09 13:09:40.754 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-10-09 13:09:40.755 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-09 13:09:41.906 [info] Eager extensions activated
+2024-10-09 13:09:41.907 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-09 13:09:41.919 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-09 13:09:41.919 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'

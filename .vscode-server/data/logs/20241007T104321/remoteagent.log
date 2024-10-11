@@ -1,0 +1,13 @@
+2024-10-07 10:43:21.548 [info] 
+
+
+
+
+2024-10-07 10:43:21.554 [info] Extension host agent started.
+2024-10-07 10:43:21.579 [info] Started initializing default profile extensions in extensions installation folder. file:///home/dannydevelops82/.vscode-server/extensions
+2024-10-07 10:43:21.596 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/dannydevelops82/.vscode-server/extensions
+2024-10-07 10:43:21.746 [info] [127.0.0.1][1e77f698][ManagementConnection] New connection established.
+2024-10-07 10:43:21.994 [info] [127.0.0.1][f3f06250][ExtensionHostConnection] New connection established.
+2024-10-07 10:43:22.000 [info] [127.0.0.1][f3f06250][ExtensionHostConnection] <657> Launched Extension Host Process.
+2024-10-07 10:43:54.869 [info] [127.0.0.1][1e77f698][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-07 10:43:54.903 [info] [127.0.0.1][f3f06250][ExtensionHostConnection] <657> Extension Host Process exited with code: 0, signal: null.

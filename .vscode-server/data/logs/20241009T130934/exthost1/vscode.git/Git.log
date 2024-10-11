@@ -1,0 +1,30 @@
+2024-10-09 13:09:39.424 [info] [main] Log level: Info
+2024-10-09 13:09:39.424 [info] [main] Validating found git in: "git"
+2024-10-09 13:09:39.424 [info] [main] Using git "2.43.0" from "git"
+2024-10-09 13:09:39.424 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-09 13:09:39.611 [info] > git rev-parse --show-toplevel [194ms]
+2024-10-09 13:09:39.692 [info] > git rev-parse --git-dir --git-common-dir [65ms]
+2024-10-09 13:09:39.734 [info] [Model][openRepository] Opened repository: /mnt/c/Users/barro/Desktop/cakeByG
+2024-10-09 13:09:39.866 [info] > git config --get commit.template [77ms]
+2024-10-09 13:09:39.868 [info] > git rev-parse --show-toplevel [74ms]
+2024-10-09 13:09:40.252 [info] > git rev-parse --show-toplevel [376ms]
+2024-10-09 13:09:40.266 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-09 13:09:40.962 [info] > git check-ignore -v -z --stdin [284ms]
+2024-10-09 13:09:41.012 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1212ms]
+2024-10-09 13:09:43.330 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2295ms]
+2024-10-09 13:09:43.992 [info] > git status -z -uall [2962ms]
+2024-10-09 13:09:44.068 [info] > git config --get commit.template [38ms]
+2024-10-09 13:09:44.385 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [372ms]
+2024-10-09 13:09:44.391 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [350ms]
+2024-10-09 13:09:44.646 [info] > git config --local branch.main.vscode-merge-base [256ms]
+2024-10-09 13:09:44.647 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-09 13:09:44.924 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [291ms]
+2024-10-09 13:09:45.324 [info] > git reflog main --grep-reflog=branch: Created from *. [665ms]
+2024-10-09 13:09:45.369 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [42ms]
+2024-10-09 13:09:45.369 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-10-09 13:09:45.369 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-10-09 13:09:45.516 [info] > git status -z -uall [887ms]
+2024-10-09 13:09:45.668 [info] > git merge-base refs/heads/main refs/remotes/origin/main [295ms]
+2024-10-09 13:09:45.675 [info] > git merge-base refs/heads/main refs/remotes/origin/main [142ms]
+2024-10-09 13:09:45.968 [info] > git diff --name-status -z --diff-filter=ADMR 9d225e009f77bb9e5842ff7fedda3db980efb3f6...refs/remotes/origin/main [289ms]
+2024-10-09 13:09:45.969 [info] > git diff --name-status -z --diff-filter=ADMR 9d225e009f77bb9e5842ff7fedda3db980efb3f6...refs/remotes/origin/main [296ms]
