@@ -1,0 +1,32 @@
+body {
+    height: 100dvh;
+    width: 100dvw;
+    display: grid;
+    place-items: center;
+    background: black;
+    color: red;
+}
+
+.gameTable {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-image: url(images/greenFeltBG.svg);
+    background-size: cover;
+    inset: 0;
+    width: 100dvw;
+    height: 60dvh;
+    gap: 4rem;
+    margin: 2rem auto;
+    color: white;
+}
+
+.players {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    width: auto;
+    height: 200px;
+}

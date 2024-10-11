@@ -1,0 +1,9 @@
+body {
+}
+
+.gameTable {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background: green;
+}

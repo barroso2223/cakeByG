@@ -114,3 +114,26 @@ cd swiftSite/
 git status
 git commit -m "first commit"
 code .
+touch index.html
+touch style.css
+touch main.js
+ls
+code .
+add .
+. add
+ls
+git add
+git add .
+git status
+git reset
+ls
+status
+git status
+git add
+git init
+ls
+ls -ls
+ls -la
+ls
+git add .
+git commit

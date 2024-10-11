@@ -1,0 +1,16 @@
+body {
+}
+
+.gameTable {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background: green;
+    width: 100dvw;
+    height: 70dvh;
+}
+
+.players {
+    display: flex;
+    flex-direction: column;
+}

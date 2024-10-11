@@ -34,3 +34,8 @@
 2024-10-09 13:09:46.034 [info] > git diff --name-status -z --diff-filter=ADMR 17fb27e950835d54d986605797a4d562eb6a453e...refs/remotes/origin/main [478ms]
 2024-10-09 13:09:46.122 [info] > git merge-base refs/heads/main refs/remotes/origin/main [336ms]
 2024-10-09 13:09:46.400 [info] > git diff --name-status -z --diff-filter=ADMR 17fb27e950835d54d986605797a4d562eb6a453e...refs/remotes/origin/main [274ms]
+2024-10-11 15:24:31.475 [info] > git fetch [554ms]
+2024-10-11 15:24:31.504 [info] > git config --get commit.template [13ms]
+2024-10-11 15:24:31.548 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [54ms]
+2024-10-11 15:24:31.593 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [34ms]
+2024-10-11 15:24:31.636 [info] > git status -z -uall [81ms]

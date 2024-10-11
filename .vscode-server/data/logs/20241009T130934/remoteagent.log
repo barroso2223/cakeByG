@@ -67,3 +67,8 @@
 2024-10-11 10:25:28.402 [info] [127.0.0.1][c8b2c659][ExtensionHostConnection] <17368> Launched Extension Host Process.
 2024-10-11 10:25:41.235 [info] [127.0.0.1][e2033659][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
 2024-10-11 10:25:41.338 [info] [127.0.0.1][c8b2c659][ExtensionHostConnection] <17368> Extension Host Process exited with code: 0, signal: null.
+2024-10-11 10:31:18.798 [info] [127.0.0.1][6db6a083][ManagementConnection] New connection established.
+2024-10-11 10:31:18.994 [info] [127.0.0.1][b58f7d9c][ExtensionHostConnection] New connection established.
+2024-10-11 10:31:18.997 [info] [127.0.0.1][b58f7d9c][ExtensionHostConnection] <17776> Launched Extension Host Process.
+2024-10-11 10:52:41.672 [info] [127.0.0.1][b58f7d9c][ExtensionHostConnection] <17776> [0mGET /favicon.ico [33m404[0m 2.251 ms - 150[0m
+
