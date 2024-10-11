@@ -1,0 +1,142 @@
+created War Card Game
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   .bash_history
+#	new file:   .cache/typescript/5.6/package.json
+#	new file:   .vscode-server/data/User/History/-18b4414f/5LEb.html
+#	new file:   .vscode-server/data/User/History/-18b4414f/E0yT.html
+#	new file:   .vscode-server/data/User/History/-18b4414f/H1MQ.html
+#	new file:   .vscode-server/data/User/History/-18b4414f/HNpB.html
+#	new file:   .vscode-server/data/User/History/-18b4414f/HQCh.html
+#	new file:   .vscode-server/data/User/History/-18b4414f/IxtF.html
+#	new file:   .vscode-server/data/User/History/-18b4414f/MAJf.html
+#	new file:   .vscode-server/data/User/History/-18b4414f/OPVF.html
+#	new file:   .vscode-server/data/User/History/-18b4414f/TIHI.html
+#	new file:   .vscode-server/data/User/History/-18b4414f/Ts6z.html
+#	new file:   .vscode-server/data/User/History/-18b4414f/Z603.html
+#	new file:   .vscode-server/data/User/History/-18b4414f/entries.json
+#	new file:   .vscode-server/data/User/History/-18b4414f/eqoC.html
+#	new file:   .vscode-server/data/User/History/-18b4414f/fP2P.html
+#	new file:   .vscode-server/data/User/History/-18b4414f/gWsr.html
+#	new file:   .vscode-server/data/User/History/-18b4414f/i7bn.html
+#	new file:   .vscode-server/data/User/History/-18b4414f/rgBG.html
+#	new file:   .vscode-server/data/User/History/-18b4414f/x0E7.html
+#	new file:   .vscode-server/data/User/History/-18b4414f/yVl6.html
+#	new file:   .vscode-server/data/User/History/-79527d8c/0jTW.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/4yFj.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/5Dga.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/6KFZ.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/6wna.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/8ExH.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/8eiK.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/8un2.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/8w3H.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/8xuA.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/9wmb.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/DgUn.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/EIke.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/EN3c.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/EdfS.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/Fr5B.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/JTGP.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/KDaH.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/KUff.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/KmkF.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/O09B.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/Qg9o.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/STjc.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/Tdoi.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/UJMa.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/UQj8.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/UxbU.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/W7jV.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/XQnP.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/Y0Y6.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/ZDM4.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/bZpV.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/bjDP.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/entries.json
+#	new file:   .vscode-server/data/User/History/-79527d8c/fqbU.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/gbqM.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/jYlA.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/kRKS.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/merC.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/ookg.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/r715.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/rqSa.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/ssnI.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/svne.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/u5o6.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/uSfc.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/vKGN.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/wqcB.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/y3sY.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/zQWG.js
+#	new file:   .vscode-server/data/User/History/-79527d8c/zRVy.js
+#	new file:   .vscode-server/data/User/History/e8d3f9c/0Ddp.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/2tSS.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/2ucq.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/3Jim.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/3POG.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/4ymc.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/5de3.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/5kiQ.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/6B71.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/6pDI.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/7n5n.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/9B7o.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/ECFy.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/ESE2.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/GX51.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/H9JJ.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/Ha54.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/IHNb.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/IXLy.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/Jnum.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/KMQe.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/S2i8.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/UaSB.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/Uv7k.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/YoHG.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/ZA3q.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/bGkE.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/dNzT.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/eSBK.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/eXIq.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/entries.json
+#	new file:   .vscode-server/data/User/History/e8d3f9c/eq3P.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/f6L8.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/gShK.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/iSIG.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/jF6j.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/mMBV.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/oLon.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/ogVF.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/ooUE.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/qJPX.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/v2zB.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/wAqQ.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/wmh3.css
+#	new file:   .vscode-server/data/User/History/e8d3f9c/yRd2.css
+#	new file:   .vscode-server/data/User/workspaceStorage/2819f2fbcfda105e92f202ea9abf0357/vscode.lock
+#	modified:   .vscode-server/data/logs/20241009T130934/exthost1/remoteexthost.log
+#	modified:   .vscode-server/data/logs/20241009T130934/exthost2/remoteexthost.log
+#	modified:   .vscode-server/data/logs/20241009T130934/exthost2/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20241009T130934/exthost4/output_logging_20241011T103119/1-HTML Language Server.log
+#	new file:   .vscode-server/data/logs/20241009T130934/exthost4/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20241009T130934/exthost4/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20241009T130934/exthost4/vscode.github/GitHub.log
+#	new file:   .vscode-server/data/logs/20241009T130934/exthost4/vscode.typescript-language-features/TypeScript.log
+#	modified:   .vscode-server/data/logs/20241009T130934/remoteagent.log
+#	new file:   images/greenFelt.jpg
+#	new file:   images/greenFeltBG.svg
+#	modified:   index.html
+#	modified:   main.js
+#	modified:   style.css
+#
+# Changes not staged for commit:
+#	modified:   .vscode-server/data/logs/20241009T130934/exthost4/vscode.git/Git.log
+#

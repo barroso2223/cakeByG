@@ -6065,3 +6065,79 @@
 2024-10-11 16:54:09.365 [info] > git status -z -uall [17ms]
 2024-10-11 16:54:22.207 [info] > git check-ignore -v -z --stdin [9ms]
 2024-10-11 16:54:26.292 [info] > git check-ignore -v -z --stdin [12ms]
+2024-10-11 16:54:30.308 [info] > git add -A -- . [422ms]
+2024-10-11 16:54:30.748 [info] > git show --textconv :.git/COMMIT_EDITMSG [10ms]
+2024-10-11 16:54:30.749 [info] > git ls-files --stage -- /home/dannydevelops82/.git/COMMIT_EDITMSG [7ms]
+2024-10-11 16:54:31.095 [info] > git check-ignore -v -z --stdin [6ms]
+2024-10-11 16:54:31.716 [info] > git ls-files --stage -- /home/dannydevelops82/.git/COMMIT_EDITMSG [4ms]
+2024-10-11 16:54:31.733 [info] > git show --textconv :.git/COMMIT_EDITMSG [4ms]
+2024-10-11 16:54:49.541 [info] > git -c user.useConfigOnly=true commit --quiet [19231ms]
+2024-10-11 16:54:49.547 [info] > git config --get commit.template [0ms]
+2024-10-11 16:54:49.550 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-11 16:54:49.558 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-10-11 16:54:49.572 [info] > git status -z -uall [18ms]
+2024-10-11 16:54:49.586 [info] > git push [6ms]
+2024-10-11 16:54:49.586 [info] fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+2024-10-11 16:54:49.589 [info] > git config --get commit.template [4ms]
+2024-10-11 16:54:49.592 [info] > git config --get commit.template [3ms]
+2024-10-11 16:54:49.595 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-10-11 16:54:49.596 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-11 16:54:49.603 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-10-11 16:54:49.615 [info] > git status -z -uall [17ms]
+2024-10-11 16:54:50.049 [info] > git show --textconv :main.js [3ms]
+2024-10-11 16:54:50.051 [info] > git ls-files --stage -- /home/dannydevelops82/main.js [2ms]
+2024-10-11 16:54:50.054 [info] > git cat-file -s 2d7f1a37799e623f067bde8070f66ec77dfaa900 [0ms]
+2024-10-11 16:54:50.353 [info] > git check-ignore -v -z --stdin [5ms]
+2024-10-11 16:54:59.085 [info] > git ls-files --stage -- /home/dannydevelops82/main.js [5ms]
+2024-10-11 16:54:59.088 [info] > git cat-file -s 2d7f1a37799e623f067bde8070f66ec77dfaa900 [1ms]
+2024-10-11 16:54:59.158 [info] > git show --textconv :main.js [2ms]
+2024-10-11 16:55:24.385 [info] > git push -u origin master [25301ms]
+2024-10-11 16:55:24.385 [info] remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File .vscode-server/bin/e10f2369d0d9614a452462f2e01cdc4aa9486296/node is 93.58 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+remote: 
+remote: Create a pull request for 'master' on GitHub by visiting:        
+remote:      https://github.com/barroso2223/cakeByG/pull/new/master        
+remote: 
+To https://github.com/barroso2223/cakeByG.git
+ * [new branch]      master -> master
+2024-10-11 16:55:24.392 [info] > git config --get commit.template [4ms]
+2024-10-11 16:55:24.392 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-11 16:55:24.399 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-10-11 16:55:24.409 [info] > git status -z -uall [14ms]
+2024-10-11 16:55:24.416 [info] > git merge-base refs/heads/master refs/remotes/origin/master [2ms]
+2024-10-11 16:55:24.419 [info] > git diff --name-status -z --diff-filter=ADMR 6062e5b7914f19b49ac74b42ca94ab21902f8f21...refs/remotes/origin/master [1ms]
+2024-10-11 16:55:24.514 [info] > git config --get commit.template [2ms]
+2024-10-11 16:55:24.518 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-11 16:55:24.531 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2024-10-11 16:55:24.549 [info] > git status -z -uall [26ms]
+2024-10-11 16:55:25.065 [info] > git check-ignore -v -z --stdin [5ms]
+2024-10-11 16:55:25.610 [info] > git ls-files --stage -- /home/dannydevelops82/main.js [2ms]
+2024-10-11 16:55:25.613 [info] > git cat-file -s 2d7f1a37799e623f067bde8070f66ec77dfaa900 [1ms]
+2024-10-11 16:55:25.622 [info] > git show --textconv :main.js [2ms]
+2024-10-11 16:55:26.696 [info] > git config --get commit.template [4ms]
+2024-10-11 16:55:26.700 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-11 16:55:26.706 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-10-11 16:55:26.716 [info] > git status -z -uall [13ms]
+2024-10-11 16:55:31.726 [info] > git config --get commit.template [1ms]
+2024-10-11 16:55:31.730 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-11 16:55:31.739 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-10-11 16:55:31.752 [info] > git status -z -uall [18ms]
+2024-10-11 16:55:36.759 [info] > git config --get commit.template [3ms]
+2024-10-11 16:55:36.759 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-11 16:55:36.766 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-10-11 16:55:36.776 [info] > git status -z -uall [14ms]
+2024-10-11 16:55:40.315 [info] > git config --get commit.template [5ms]
+2024-10-11 16:55:40.315 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-11 16:55:40.322 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-10-11 16:55:40.333 [info] > git status -z -uall [14ms]
+2024-10-11 16:55:45.342 [info] > git config --get commit.template [3ms]
+2024-10-11 16:55:45.343 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-11 16:55:45.357 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2024-10-11 16:55:45.380 [info] > git status -z -uall [33ms]
